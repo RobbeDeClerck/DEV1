@@ -12,7 +12,7 @@ drawLines();
 
 function drawLines(){
     context.fillStyle = "orange";
-
+    //test
     context.rect(0, 0, width, height);
     context.fill();
     context.lineWidth = 2;
